@@ -1,0 +1,4 @@
+.new-bullet-bar.tparrows:before,
+.new-bullet-bar.tparrows:after {
+  background-color: crimson;
+}
